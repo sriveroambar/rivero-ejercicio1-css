@@ -1,0 +1,53 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    list-style:none;  
+
+}
+body {
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 5%;
+    background-color: #141414;
+    background-image: url(https://img2.pngio.com/sccprecat-website-background-png-1761432-nexplayer-website-background-png-594_481.png);
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff
+    }
+
+a {
+    display: inline-block;
+    text-decoration: none;
+    color: aquamarine;  
+   
+}
+a:hover {
+    color: rgb(7, 138, 94);
+}
+
+#h1 {
+    margin: auto;
+    color: aquamarine;
+    text-transform: uppercase;
+    font-size: 300%;
+    letter-spacing: 1px;
+    }
+
+h2, 
+header p {
+    margin-top: 02%;
+    margin-bottom: 02%;
+    justify-content: center;
+    }
+
+.navbar ul.menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
